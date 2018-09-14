@@ -47,7 +47,7 @@ background-color: FloralWhite;
 text-align: center;
 background-image: url("http://metromanila.politics.com.ph/wp-content/uploads/2018/05/monorail.jpg");
 background-repeat:no-repeat;
-align: center;
+max-width: 70%;
 }
 
 .image {
